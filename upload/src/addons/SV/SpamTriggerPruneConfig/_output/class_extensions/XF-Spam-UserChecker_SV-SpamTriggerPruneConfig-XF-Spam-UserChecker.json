@@ -1,0 +1,6 @@
+{
+    "from_class": "XF\\Spam\\UserChecker",
+    "to_class": "SV\\SpamTriggerPruneConfig\\XF\\Spam\\UserChecker",
+    "execute_order": 10,
+    "active": true
+}

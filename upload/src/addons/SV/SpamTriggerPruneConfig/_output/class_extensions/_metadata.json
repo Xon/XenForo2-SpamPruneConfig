@@ -1,5 +1,11 @@
 {
     "XF-Repository-Spam_SV-SpamTriggerPruneConfig-XF-Repository-Spam.json": {
         "hash": "ede3ec7fe0f02d30f31f03407fa41aec"
+    },
+    "XF-Spam-ContentChecker_SV-SpamTriggerPruneConfig-XF-Spam-ContentChecker.json": {
+        "hash": "e60ae933c86911f6802bf8a1ae19955d"
+    },
+    "XF-Spam-UserChecker_SV-SpamTriggerPruneConfig-XF-Spam-UserChecker.json": {
+        "hash": "f3b080ffa90bcccd5443b0f592626cfe"
     }
 }

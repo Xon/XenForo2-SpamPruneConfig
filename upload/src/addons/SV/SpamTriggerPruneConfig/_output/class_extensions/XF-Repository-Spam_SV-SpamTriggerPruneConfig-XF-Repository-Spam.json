@@ -1,0 +1,6 @@
+{
+    "from_class": "XF\\Repository\\Spam",
+    "to_class": "SV\\SpamTriggerPruneConfig\\XF\\Repository\\Spam",
+    "execute_order": 10,
+    "active": true
+}

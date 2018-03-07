@@ -1,0 +1,2 @@
+The number of days the Spam Trigger Log will be pruned for non-user records.<br/><br/>
+Zero to disable pruning of these records.

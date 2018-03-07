@@ -1,0 +1,2 @@
+The number of days before Rejected User records are pruned from the Spam Trigger Log.<br/><br/>
+Zero to disable pruning of these records.

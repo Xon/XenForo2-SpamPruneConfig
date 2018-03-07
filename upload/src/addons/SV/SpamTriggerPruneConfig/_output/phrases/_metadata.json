@@ -1,0 +1,62 @@
+{
+    "option.svSpamTriggerAllowedUser.txt": {
+        "global_cache": false,
+        "version_id": 1100000,
+        "version_string": "2.0.0",
+        "hash": "e6cd31cea5148c9d895c1fdb7150b446"
+    },
+    "option.svSpamTriggerModeratedUser.txt": {
+        "global_cache": false,
+        "version_id": 1100000,
+        "version_string": "2.0.0",
+        "hash": "7baa4c45cd9ed6e349d0520c8e12409a"
+    },
+    "option.svSpamTriggerNonUser.txt": {
+        "global_cache": false,
+        "version_id": 1100000,
+        "version_string": "2.0.0",
+        "hash": "ed25278b184cf8dfce32d112507e3844"
+    },
+    "option.svSpamTriggerRejectedUser.txt": {
+        "global_cache": false,
+        "version_id": 1100000,
+        "version_string": "2.0.0",
+        "hash": "59d7bf194e92f11927099e5f1440a5ce"
+    },
+    "option_explain.svSpamTriggerAllowedUser.txt": {
+        "global_cache": false,
+        "version_id": 1100000,
+        "version_string": "2.0.0",
+        "hash": "8e5bfbbf01f271c1076342a19be39f8d"
+    },
+    "option_explain.svSpamTriggerModeratedUser.txt": {
+        "global_cache": false,
+        "version_id": 1100000,
+        "version_string": "2.0.0",
+        "hash": "775615f200b351fc622c62427a46024b"
+    },
+    "option_explain.svSpamTriggerNonUser.txt": {
+        "global_cache": false,
+        "version_id": 1100000,
+        "version_string": "2.0.0",
+        "hash": "d8e4c7d71dc33fc5a26a2df5e07ae871"
+    },
+    "option_explain.svSpamTriggerRejectedUser.txt": {
+        "global_cache": false,
+        "version_id": 1100000,
+        "version_string": "2.0.0",
+        "hash": "1bb0a72c6516743685b8707edc70a793"
+    },
+    "option_group.SV_SpamPruneConfig.txt": {
+        "global_cache": false,
+        "version_id": 1100000,
+        "version_string": "2.0.0",
+        "hash": "bf947402eecbdccec916d85748ace6da"
+    },
+    "option_group_description.SV_SpamPruneConfig.txt": {
+        "global_cache": false,
+        "version_id": 1100000,
+        "version_string": "2.0.0",
+        "hash": "b923bbb40aef6be543e7687e3247b9a8"
+    }
+}

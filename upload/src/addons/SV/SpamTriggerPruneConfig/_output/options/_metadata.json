@@ -1,0 +1,14 @@
+{
+    "svSpamTriggerAllowedUser.json": {
+        "hash": "23ea3ca283b369e19ea6c46c06b59f53"
+    },
+    "svSpamTriggerModeratedUser.json": {
+        "hash": "8b007438c0c93c849399ab4bafa1fd9d"
+    },
+    "svSpamTriggerNonUser.json": {
+        "hash": "ebf86c6c3eb2e837ad320490cfa05433"
+    },
+    "svSpamTriggerRejectedUser.json": {
+        "hash": "9f2557067ddb2b67683b480105230ca8"
+    }
+}

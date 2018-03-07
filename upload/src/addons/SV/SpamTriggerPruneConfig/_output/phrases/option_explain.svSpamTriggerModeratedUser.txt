@@ -1,0 +1,2 @@
+The number of days before Moderated User records are pruned from the Spam Trigger Log.<br/><br/>
+Zero to disable pruning of these records.
